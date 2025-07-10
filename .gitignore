@@ -1,0 +1,29 @@
+.idea/
+*.iml
+*.ipr
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# VS Code
+.vscode/

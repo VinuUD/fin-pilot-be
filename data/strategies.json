@@ -1,0 +1,24 @@
+[
+  {
+    "name": "My Strategy Test",
+    "assets": [
+      {
+        "category": "Technology",
+        "weight": 100.0
+      }
+    ]
+  },
+  {
+    "name": "Test Test",
+    "assets": [
+      {
+        "category": "Energy",
+        "weight": 50.0
+      },
+      {
+        "category": "Healthcare",
+        "weight": 50.0
+      }
+    ]
+  }
+]
